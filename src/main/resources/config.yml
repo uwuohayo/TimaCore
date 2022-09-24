@@ -1,0 +1,25 @@
+#████████╗██╗███╗░░░███╗░█████╗░  ░█████╗░░█████╗░██████╗░███████╗
+#╚══██╔══╝██║████╗░████║██╔══██╗  ██╔══██╗██╔══██╗██╔══██╗██╔════╝
+#░░░██║░░░██║██╔████╔██║███████║  ██║░░╚═╝██║░░██║██████╔╝█████╗░░
+#░░░██║░░░██║██║╚██╔╝██║██╔══██║  ██║░░██╗██║░░██║██╔══██╗██╔══╝░░
+#░░░██║░░░██║██║░╚═╝░██║██║░░██║  ╚█████╔╝╚█████╔╝██║░░██║███████╗
+#░░░╚═╝░░░╚═╝╚═╝░░░░░╚═╝╚═╝░░╚═╝  ░╚════╝░░╚════╝░╚═╝░░╚═╝╚══════╝
+#
+#FULL PLUGIN DOCUMENTATION - www.timacore.rootkovskiy.ovh
+#plugin by Timur Rootkovskiy (Adminov)
+#my site - www.rootkovskiy.ovh
+#
+#turns off or on the visual design of the chat from the core
+visual_chat_manager: true
+#
+#disables or enables the cooldown system from the core
+сhatcooldownmanager: true
+#
+#Enter the value in seconds, enter ONLY NUMBERS here, otherwise the plugin will not work!
+#(if the сhatcooldownmanager system is off, then you can leave the value blank)
+chatcooldown: 1
+#
+#enable or disable messages after death / join / quit
+joinquitdeathmanager: true
+#
+#thanks for use my plugin <3

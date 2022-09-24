@@ -4,3 +4,197 @@ main: ovh.rootkovskiy.timacore.Main
 authors: [ timurroot ]
 description: TimaCore is the essential plugin for Minecraft servers, with many commands for servers of all size and scale.
 website: www.rootkovskiy.ovh
+commands:
+  anvil:
+    aliases: []
+    permission: timacore.anvil
+  bc:
+    aliases: [broadcast]
+    permission: timacore.bc
+  burn:
+    aliases: [fire]
+    permission: timacore.burn
+  chatclear:
+    aliases: []
+    permission: timacore.chatclear
+  ci:
+    aliases: [clear]
+    permission:
+      timacore.ci
+      timacore.ci.other
+  day:
+    aliases: []
+    permission: timacore.day
+  dm:
+    aliases: [directmessage, tell, say, msg]
+    permission: timacore.dm
+  ec:
+    aliases: [enderchest]
+    permission:
+      timacore.ec
+      timacore.ec.other
+  exp:
+    aliases: [experience]
+    permission: timacore.exp
+  feed:
+    aliases: []
+    permission:
+      timacore.feed
+      timacore.feed.other
+  fireball:
+    aliases: []
+    permission: timacore.fireball
+  fly:
+    aliases: []
+    permission:
+      timacore.fly
+      timacore.fly.other
+  gc:
+    aliases: [gamecontrol]
+    permission: timacore.gc
+  getpos:
+    aliases: [getposition]
+    permission: timacore.getpos
+  gm:
+    aliases: [gamemode]
+    permission:
+      timacore.gm
+      timacore.gm.other
+  god:
+    aliases: []
+    permission:
+      timacore.god
+      timacore.god.other
+  hat:
+    aliases: []
+    permission: timacore.hat
+  heal:
+    aliases: []
+    permission:
+      timacore.heal
+      timacore.heal.other
+  delhome:
+    aliases: []
+    permission: timacore.delhome
+  home:
+    aliases: []
+    permission: timacore.home
+  homes:
+    aliases: []
+    permission: timacore.homes
+  sethome:
+    aliases: []
+    permission: timacore.sethome
+  invsee:
+    aliases: [inventorysee]
+    permission: timacore.invsee
+  kill:
+    aliases: []
+    permission:
+      timacore.kill
+      timacore.kill.other
+  lightning:
+    aliases: [thor]
+    permission: timacore.lightning
+  list:
+    aliases: [players]
+    permission: timacore.list
+  milk:
+    aliases: []
+    permission:
+      timacore.milk
+      timacore.milk.other
+  mobkill:
+    aliases: []
+    permission: timacore.mobkill
+  near:
+    aliases: []
+    permission: timacore.near
+  night:
+    aliases: []
+    permission: timacore.night
+  ping:
+    aliases: []
+    permission: timacore.ping
+  ptime:
+    aliases: [personaltime]
+    permission: timacore.ptime
+  pweather:
+    aliases: [personalweather]
+    permission: timacore.pweather
+  repair:
+    aliases: [fix]
+    permission:
+      timacore.repair
+      timacore.repair.hand
+      timacore.repair.all
+  s:
+    aliases: [tpme]
+    permission: timacore.s
+  servertps:
+    aliases: [tps]
+    permission: timacore.tps
+  skull:
+    aliases: [head]
+    permission: timacore.skull
+  socialspy:
+    aliases: []
+    permission: timacore.socialspy
+  spawn:
+    aliases: []
+    permission: timacore.spawn
+  setspawn:
+    aliases: []
+    permission: timacore.setspawn
+  delspawn:
+    aliases: []
+    permission: timacore.delspawn
+  storm:
+    aliases: []
+    permission: timacore.storm
+  sun:
+    aliases: []
+    permission: timacore.sun
+  tnt:
+    aliases: [boom]
+    permission: timacore.tnt
+  top:
+    aliases: []
+    permission: timacore.top
+  tp:
+    aliases: [teleport]
+    permission:
+      timacore.tp
+      timacore.tp.other
+  tppos:
+    aliases: []
+    permission: timacore.tppos
+  v:
+    aliases: [vanish]
+    permission:
+      timacore.v
+      timacore.v.other
+  warp:
+    aliases: []
+    permission: timacore.warp
+  setwarp:
+    aliases: []
+    permission: timacore.setwarp
+  delwarp:
+    aliases: []
+    permission: timacore.delwarp
+  warps:
+    aliases: []
+    permission: timacore.warps
+  water:
+    aliases: []
+    permission: timacore.water
+  wb:
+    aliases: [workbench]
+    permission: timacore.wb
+  whois:
+    aliases: []
+    permission: timacore.whois
+  world:
+    aliases: []
+    permission: timacore.world
