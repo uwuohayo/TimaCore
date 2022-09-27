@@ -3,7 +3,9 @@ package ovh.rootkovskiy.TimaCore;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
-import ovh.rootkovskiy.TimaCore.v.VListener;
+import ovh.rootkovskiy.TimaCore.Commands.v.VListener;
+import ovh.rootkovskiy.TimaCore.Utils.ConsoleUtils;
+import ovh.rootkovskiy.TimaCore.Utils.LagUtils;
 
 import java.util.ArrayList;
 
