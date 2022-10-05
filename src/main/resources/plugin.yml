@@ -1,6 +1,6 @@
 name: TimaCore
 version: '${project.version}'
-main: ovh.rootkovskiy.timacore.Main
+main: ovh.rootkovskiy.TimaCore.Main
 authors: [ timurroot ]
 description: TimaCore is the essential plugin for Minecraft servers, with many commands for servers of all size and scale.
 website: www.rootkovskiy.ovh
